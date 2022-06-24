@@ -1,5 +1,5 @@
 # Create google based book search engine.
-Use the new Google Books
+
 You can read, download, or preview books on Google Books. If you find a book you want to read, you might be able to read it on Google Books, so as soon as you click the more button option, it will direct you to the right google link and that's where you can buy it online, or borrow it from a library. The main purpouse of this project is to get access from google book repository. 
 The home page 
 
